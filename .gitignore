@@ -1,0 +1,50 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+# Backup files
+*~
+
+# JVM error logs
+hs_err_pid*.log
+
+# Maven output directory
+/target/
+
+# Eclipse output directory
+/bin/
+# Eclipse settings
+/.classpath
+/.project
+/.settings/
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin 
+.target
+
+# TeXlipse plugin
+.texlipse
